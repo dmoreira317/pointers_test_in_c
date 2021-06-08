@@ -1,4 +1,4 @@
-## Pointer's, values and addresses
+## Pointers, values and addresses
 This is a pointers, address and values test in C. Helped me understand the scope of each.
 
 #### Features
